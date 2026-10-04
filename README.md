@@ -1,4 +1,4 @@
-# Lab Instructions: Advanced JS Features
+# Lab Instructions: Advanced JS Features.
 
 ## Task: Iterate Over an Array
 
